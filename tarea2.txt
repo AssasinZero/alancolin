@@ -1,0 +1,27 @@
+tarea2
+primero me hice una cuenta github
+me creé algún repositorio y seguí las instrucciones
+posteriormente abrí la terminal e instalé todo el git para poder ejecutar comandos de este tipo
+mkdir alancolin
+cd alancolin
+git init
+touch README2
+git add README2
+Para enlazar la computadora a github
+git config --global user.name AssasinZero
+git config --global user.email ***@***
+ssh-keygen (enter enter enter)
+cat */*/*/ (dirección)
+activé y enlacé el key-gen pegando el contenido después de la concatenación
+los comandos de status son irrelevantes
+git commit -m blabla
+git remote add origin http... url
+git pull origin master
+git push origin master
+git add tarea1
+git commit -m blabla
+git push origin master
+echo estas lńeas >> /alancolin/tarea2.txt
+git add tarea2.txt
+git commit -m blabla
+git push -m blabla
